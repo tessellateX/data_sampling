@@ -1,0 +1,154 @@
+[
+    [
+        "16",
+        "'North 24 Parganas'",
+        "'15'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "69636"
+    ],
+    [
+        "18",
+        "'Dakshin Dinajpur'",
+        "'17'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "54555"
+    ],
+    [
+        "14",
+        "'Nadia'",
+        "'13'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "111899"
+    ],
+    [
+        "10",
+        "'Malda'",
+        "'09'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "79236"
+    ],
+    [
+        "15",
+        "'Purulia'",
+        "'14'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "23686"
+    ],
+    [
+        "11",
+        "'Paschim Medinipur'",
+        "'10'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "124928"
+    ],
+    [
+        "1",
+        "'Bankura'",
+        "'01'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "43884"
+    ],
+    [
+        "4",
+        "'Darjeeling'",
+        "'04'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "11895"
+    ],
+    [
+        "7",
+        "'Jalpaiguri'",
+        "'07'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "35919"
+    ],
+    [
+        "8",
+        "'ALIPURDUAR'",
+        "'19'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "34694"
+    ],
+    [
+        "9",
+        "'Koochbihar'",
+        "'08'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "61885"
+    ],
+    [
+        "2",
+        "'Bardhaman'",
+        "'02'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "156407"
+    ],
+    [
+        "19",
+        "'Uttar Dinajpur'",
+        "'18'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "63666"
+    ],
+    [
+        "13",
+        "'Murshidabad'",
+        "'12'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "141469"
+    ],
+    [
+        "6",
+        "'Hooghly'",
+        "'06'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2016, 3, 31, 9, 40, 21, 468131)",
+        "71970"
+    ],
+    [
+        "12",
+        "'Purba Medinipur'",
+        "'11'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "57195"
+    ],
+    [
+        "5",
+        "'Howrah'",
+        "'05'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2016, 3, 31, 9, 39, 45, 98644)",
+        "25752"
+    ],
+    [
+        "3",
+        "'Birbhum'",
+        "'03'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "77608"
+    ],
+    [
+        "17",
+        "'South 24 Parganas'",
+        "'16'",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "datetime.datetime(2015, 11, 4, 18, 28, 9)",
+        "55613"
+    ]
+]

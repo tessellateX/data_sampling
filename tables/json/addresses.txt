@@ -1,0 +1,672 @@
+[
+    [
+        "1",
+        "'Darjeeling, Kalimpong'",
+        "'00000'",
+        "1",
+        "datetime.datetime(2016, 2, 18, 10, 16, 33)",
+        "datetime.datetime(2016, 2, 18, 10, 16, 33)",
+        "4",
+        "None"
+    ],
+    [
+        "2",
+        "'Darjeeling, Kalimpong'",
+        "'0000'",
+        "2",
+        "datetime.datetime(2016, 2, 18, 10, 17, 11)",
+        "datetime.datetime(2016, 2, 18, 10, 17, 11)",
+        "4",
+        "None"
+    ],
+    [
+        "3",
+        "'Darjeeling, Coochbeher'",
+        "'00000'",
+        "3",
+        "datetime.datetime(1970, 1, 1, 0, 0)",
+        "datetime.datetime(1970, 1, 1, 0, 0)",
+        "4",
+        "None"
+    ],
+    [
+        "4",
+        "'Jalpaiguri 1, Coochbehar'",
+        "''",
+        "4",
+        "datetime.datetime(2016, 2, 25, 5, 4, 35)",
+        "datetime.datetime(2016, 2, 25, 5, 4, 35)",
+        "7",
+        "123"
+    ],
+    [
+        "5",
+        "'Jalpaiguri 2'",
+        "''",
+        "5",
+        "datetime.datetime(2016, 2, 25, 5, 6, 19)",
+        "datetime.datetime(2016, 2, 25, 5, 6, 19)",
+        "7",
+        "123"
+    ],
+    [
+        "6",
+        "'Alipurduar, Alipurduar 1'",
+        "''",
+        "6",
+        "datetime.datetime(2016, 2, 25, 5, 7, 11)",
+        "datetime.datetime(2016, 2, 25, 5, 7, 11)",
+        "8",
+        "132"
+    ],
+    [
+        "7",
+        "'Coochbihar, Coochbihar 1'",
+        "''",
+        "7",
+        "datetime.datetime(2016, 2, 25, 5, 8, 11)",
+        "datetime.datetime(2016, 2, 25, 5, 8, 11)",
+        "9",
+        "136"
+    ],
+    [
+        "8",
+        "'Coochbehar, Coochbehar 2'",
+        "''",
+        "8",
+        "datetime.datetime(2016, 2, 25, 5, 9, 32)",
+        "datetime.datetime(2016, 2, 25, 5, 9, 32)",
+        "9",
+        "137"
+    ],
+    [
+        "9",
+        "'Uttar Dinajpur, Raiganj'",
+        "''",
+        "9",
+        "datetime.datetime(2016, 2, 25, 5, 10, 21)",
+        "datetime.datetime(2016, 2, 25, 5, 10, 21)",
+        "19",
+        "349"
+    ],
+    [
+        "10",
+        "'Uttar Dinajpur, Raiganj'",
+        "''",
+        "10",
+        "datetime.datetime(2016, 2, 25, 5, 10, 50)",
+        "datetime.datetime(2016, 2, 25, 5, 10, 50)",
+        "19",
+        "349"
+    ],
+    [
+        "11",
+        "'Dakshin Dinajpur '",
+        "''",
+        "11",
+        "datetime.datetime(2016, 2, 25, 5, 12, 13)",
+        "datetime.datetime(2016, 2, 25, 5, 12, 13)",
+        "18",
+        "335"
+    ],
+    [
+        "12",
+        "'Dakshin Dinajpur '",
+        "''",
+        "12",
+        "datetime.datetime(2016, 2, 25, 5, 13, 21)",
+        "datetime.datetime(2016, 2, 25, 5, 13, 21)",
+        "18",
+        "335"
+    ],
+    [
+        "13",
+        "'Malda, Old Malda'",
+        "''",
+        "13",
+        "datetime.datetime(2016, 2, 25, 5, 14, 29)",
+        "datetime.datetime(2016, 2, 25, 5, 14, 29)",
+        "10",
+        "156"
+    ],
+    [
+        "14",
+        "'Malda, Old Malda'",
+        "''",
+        "14",
+        "datetime.datetime(2016, 2, 25, 5, 14, 46)",
+        "datetime.datetime(2016, 2, 25, 5, 14, 46)",
+        "10",
+        "156"
+    ],
+    [
+        "15",
+        "'Murshidabad , Berhampore'",
+        "''",
+        "15",
+        "datetime.datetime(2016, 2, 25, 5, 15, 31)",
+        "datetime.datetime(2016, 2, 25, 5, 15, 31)",
+        "13",
+        "219"
+    ],
+    [
+        "16",
+        "'Murshidabad , Berhampore'",
+        "''",
+        "16",
+        "datetime.datetime(2016, 2, 25, 5, 16, 3)",
+        "datetime.datetime(2016, 2, 25, 5, 16, 3)",
+        "13",
+        "219"
+    ],
+    [
+        "18",
+        "'Birbhum'",
+        "''",
+        "18",
+        "datetime.datetime(2016, 2, 25, 5, 17, 51)",
+        "datetime.datetime(2016, 2, 25, 5, 17, 51)",
+        "3",
+        "65"
+    ],
+    [
+        "19",
+        "'Bankura, Bankura 1'",
+        "''",
+        "19",
+        "datetime.datetime(2016, 2, 25, 5, 18, 17)",
+        "datetime.datetime(2016, 2, 25, 5, 18, 17)",
+        "1",
+        "1"
+    ],
+    [
+        "20",
+        "'Bankura, Sonamukhi'",
+        "''",
+        "20",
+        "datetime.datetime(2016, 2, 25, 5, 19, 43)",
+        "datetime.datetime(2016, 2, 25, 5, 19, 43)",
+        "1",
+        "20"
+    ],
+    [
+        "21",
+        "'Purulia'",
+        "''",
+        "21",
+        "datetime.datetime(2016, 2, 25, 5, 20, 38)",
+        "datetime.datetime(2016, 2, 25, 5, 20, 38)",
+        "15",
+        "262"
+    ],
+    [
+        "22",
+        "'Purulia'",
+        "''",
+        "22",
+        "datetime.datetime(2016, 2, 25, 5, 20, 55)",
+        "datetime.datetime(2016, 2, 25, 5, 20, 55)",
+        "15",
+        "262"
+    ],
+    [
+        "23",
+        "'Paschim Medinipur'",
+        "''",
+        "23",
+        "datetime.datetime(2016, 2, 25, 5, 21, 49)",
+        "datetime.datetime(2016, 2, 25, 5, 21, 49)",
+        "11",
+        "170"
+    ],
+    [
+        "24",
+        "'Paschim Medinipur'",
+        "''",
+        "24",
+        "datetime.datetime(2016, 2, 25, 5, 22, 3)",
+        "datetime.datetime(2016, 2, 25, 5, 22, 3)",
+        "11",
+        "170"
+    ],
+    [
+        "25",
+        "'Purba Medinipur'",
+        "''",
+        "25",
+        "datetime.datetime(2016, 2, 25, 5, 22, 48)",
+        "datetime.datetime(2016, 2, 25, 5, 22, 48)",
+        "12",
+        "203"
+    ],
+    [
+        "26",
+        "'Burdwan'",
+        "''",
+        "26",
+        "datetime.datetime(2016, 2, 25, 5, 23, 41)",
+        "datetime.datetime(2016, 2, 25, 5, 23, 41)",
+        "2",
+        "24"
+    ],
+    [
+        "27",
+        "'Burdwan'",
+        "''",
+        "27",
+        "datetime.datetime(2016, 2, 25, 5, 24, 2)",
+        "datetime.datetime(2016, 2, 25, 5, 24, 2)",
+        "2",
+        "24"
+    ],
+    [
+        "28",
+        "'Hooghly'",
+        "''",
+        "28",
+        "datetime.datetime(2016, 2, 25, 5, 24, 32)",
+        "datetime.datetime(2016, 2, 25, 5, 24, 32)",
+        "6",
+        "117"
+    ],
+    [
+        "29",
+        "'Hooghly'",
+        "''",
+        "29",
+        "datetime.datetime(2016, 2, 25, 5, 24, 54)",
+        "datetime.datetime(2016, 2, 25, 5, 24, 54)",
+        "6",
+        "117"
+    ],
+    [
+        "30",
+        "'Howrah'",
+        "''",
+        "30",
+        "datetime.datetime(2016, 2, 25, 5, 25, 35)",
+        "datetime.datetime(2016, 2, 25, 5, 25, 35)",
+        "5",
+        "89"
+    ],
+    [
+        "31",
+        "'Howrah'",
+        "''",
+        "31",
+        "datetime.datetime(2016, 2, 25, 5, 25, 45)",
+        "datetime.datetime(2016, 2, 25, 5, 25, 45)",
+        "5",
+        "89"
+    ],
+    [
+        "32",
+        "'Nadia'",
+        "''",
+        "32",
+        "datetime.datetime(2016, 2, 25, 5, 26, 20)",
+        "datetime.datetime(2016, 2, 25, 5, 26, 20)",
+        "14",
+        "244"
+    ],
+    [
+        "33",
+        "'Nadia'",
+        "''",
+        "33",
+        "datetime.datetime(2016, 2, 25, 5, 26, 35)",
+        "datetime.datetime(2016, 2, 25, 5, 26, 35)",
+        "14",
+        "244"
+    ],
+    [
+        "34",
+        "'North 24 Parganas'",
+        "''",
+        "34",
+        "datetime.datetime(2016, 2, 25, 5, 27, 10)",
+        "datetime.datetime(2016, 2, 25, 5, 27, 10)",
+        "16",
+        "283"
+    ],
+    [
+        "35",
+        "'North 24 Parganas'",
+        "''",
+        "35",
+        "datetime.datetime(2016, 2, 25, 5, 27, 23)",
+        "datetime.datetime(2016, 2, 25, 5, 27, 23)",
+        "16",
+        "283"
+    ],
+    [
+        "36",
+        "'South 24 Parganas'",
+        "''",
+        "36",
+        "datetime.datetime(2016, 2, 25, 5, 28, 22)",
+        "datetime.datetime(2016, 2, 25, 5, 28, 22)",
+        "17",
+        "306"
+    ],
+    [
+        "37",
+        "'South 24 Parganas'",
+        "''",
+        "37",
+        "datetime.datetime(2016, 2, 25, 5, 28, 39)",
+        "datetime.datetime(2016, 2, 25, 5, 28, 39)",
+        "17",
+        "306"
+    ],
+    [
+        "40",
+        "'Chinsura'",
+        "''",
+        "40",
+        "datetime.datetime(2016, 3, 29, 11, 50, 53, 570631)",
+        "datetime.datetime(2016, 3, 29, 11, 50, 53, 570631)",
+        "6",
+        "103"
+    ],
+    [
+        "38",
+        "'South 24 Parganas'",
+        "''",
+        "None",
+        "datetime.datetime(2016, 2, 25, 5, 29, 2)",
+        "datetime.datetime(2016, 6, 28, 13, 32, 49, 209991)",
+        "17",
+        "306"
+    ],
+    [
+        "41",
+        "'South 24 Parganas'",
+        "''",
+        "38",
+        "datetime.datetime(2016, 6, 28, 13, 32, 49, 220159)",
+        "datetime.datetime(2016, 6, 28, 13, 32, 49, 220159)",
+        "17",
+        "306"
+    ],
+    [
+        "44",
+        "'Howrah'",
+        "''",
+        "43",
+        "datetime.datetime(2016, 6, 28, 13, 52, 25, 448442)",
+        "datetime.datetime(2016, 6, 28, 13, 52, 25, 448442)",
+        "5",
+        "93"
+    ],
+    [
+        "45",
+        "'South 24 Parganas'",
+        "''",
+        "44",
+        "datetime.datetime(2016, 6, 28, 13, 53, 2, 579994)",
+        "datetime.datetime(2016, 6, 28, 13, 53, 2, 579994)",
+        "17",
+        "306"
+    ],
+    [
+        "46",
+        "'North 24 Parganas'",
+        "''",
+        "45",
+        "datetime.datetime(2016, 6, 28, 13, 53, 48, 179422)",
+        "datetime.datetime(2016, 6, 28, 13, 53, 48, 179422)",
+        "16",
+        "283"
+    ],
+    [
+        "47",
+        "'Jalpaiguri'",
+        "''",
+        "46",
+        "datetime.datetime(2016, 6, 28, 13, 54, 52, 246106)",
+        "datetime.datetime(2016, 6, 28, 13, 54, 52, 246106)",
+        "7",
+        "125"
+    ],
+    [
+        "48",
+        "'Darjeeling'",
+        "''",
+        "47",
+        "datetime.datetime(2016, 6, 28, 13, 55, 24, 65944)",
+        "datetime.datetime(2016, 6, 28, 13, 55, 24, 65944)",
+        "4",
+        "84"
+    ],
+    [
+        "49",
+        "'Birbhum'",
+        "''",
+        "48",
+        "datetime.datetime(2016, 8, 5, 7, 11, 28, 707240)",
+        "datetime.datetime(2016, 8, 5, 7, 11, 28, 707240)",
+        "3",
+        "65"
+    ],
+    [
+        "50",
+        "'South 24 Parganas'",
+        "''",
+        "49",
+        "datetime.datetime(2016, 9, 19, 6, 20, 18, 822738)",
+        "datetime.datetime(2016, 9, 19, 6, 20, 18, 822738)",
+        "17",
+        "306"
+    ],
+    [
+        "51",
+        "'Birbhum'",
+        "''",
+        "50",
+        "datetime.datetime(2017, 2, 9, 4, 44, 54, 681063)",
+        "datetime.datetime(2017, 2, 9, 4, 44, 54, 681063)",
+        "3",
+        "65"
+    ],
+    [
+        "52",
+        "'Paschim Medinipur'",
+        "''",
+        "51",
+        "datetime.datetime(2017, 2, 13, 11, 59, 14, 370982)",
+        "datetime.datetime(2017, 2, 13, 11, 59, 14, 370982)",
+        "11",
+        "170"
+    ],
+    [
+        "17",
+        "'Burdwan'",
+        "''",
+        "17",
+        "datetime.datetime(2016, 2, 25, 5, 17, 7)",
+        "datetime.datetime(2016, 2, 25, 5, 17, 7)",
+        "3",
+        "24"
+    ],
+    [
+        "53",
+        "'North 24 Parganas'",
+        "''",
+        "52",
+        "datetime.datetime(2017, 2, 14, 10, 24, 5, 655231)",
+        "datetime.datetime(2017, 2, 14, 10, 24, 5, 655231)",
+        "16",
+        "283"
+    ],
+    [
+        "54",
+        "'North 24 Parganas'",
+        "''",
+        "53",
+        "datetime.datetime(2017, 2, 15, 6, 36, 19, 971942)",
+        "datetime.datetime(2017, 2, 15, 6, 36, 19, 971942)",
+        "16",
+        "283"
+    ],
+    [
+        "55",
+        "'Paschim Medinipur'",
+        "''",
+        "54",
+        "datetime.datetime(2017, 2, 22, 10, 21, 22, 404485)",
+        "datetime.datetime(2017, 2, 22, 10, 21, 22, 404485)",
+        "11",
+        "187"
+    ],
+    [
+        "56",
+        "'North 24 Parganas'",
+        "''",
+        "55",
+        "datetime.datetime(2017, 4, 4, 4, 45, 40, 623447)",
+        "datetime.datetime(2017, 4, 4, 4, 45, 40, 623447)",
+        "16",
+        "286"
+    ],
+    [
+        "57",
+        "''",
+        "''",
+        "56",
+        "datetime.datetime(2017, 5, 16, 6, 31, 15, 549384)",
+        "datetime.datetime(2017, 5, 16, 6, 31, 15, 549384)",
+        "2",
+        "356"
+    ],
+    [
+        "58",
+        "''",
+        "''",
+        "57",
+        "datetime.datetime(2017, 5, 17, 10, 53, 44, 722620)",
+        "datetime.datetime(2017, 5, 17, 10, 53, 44, 722620)",
+        "2",
+        "24"
+    ],
+    [
+        "59",
+        "'South 24 Parganas'",
+        "''",
+        "58",
+        "datetime.datetime(2017, 5, 23, 9, 15, 15, 476709)",
+        "datetime.datetime(2017, 5, 23, 9, 15, 15, 476709)",
+        "17",
+        "306"
+    ],
+    [
+        "60",
+        "'Purba Medinipur'",
+        "''",
+        "59",
+        "datetime.datetime(2017, 5, 31, 5, 53, 17, 260657)",
+        "datetime.datetime(2017, 5, 31, 5, 53, 17, 260657)",
+        "12",
+        "203"
+    ],
+    [
+        "61",
+        "'Murshidabad'",
+        "''",
+        "60",
+        "datetime.datetime(2017, 6, 1, 4, 42, 42, 839203)",
+        "datetime.datetime(2017, 6, 1, 4, 42, 42, 839203)",
+        "13",
+        "222"
+    ],
+    [
+        "62",
+        "'Murshidabad '",
+        "''",
+        "61",
+        "datetime.datetime(2017, 6, 9, 4, 41, 23, 692185)",
+        "datetime.datetime(2017, 6, 9, 4, 41, 23, 692185)",
+        "13",
+        "222"
+    ],
+    [
+        "63",
+        "'Murshidabad'",
+        "''",
+        "62",
+        "datetime.datetime(2017, 6, 13, 6, 7, 23, 982886)",
+        "datetime.datetime(2017, 6, 13, 6, 7, 23, 982886)",
+        "13",
+        "222"
+    ],
+    [
+        "64",
+        "'Nadia'",
+        "''",
+        "63",
+        "datetime.datetime(2017, 6, 14, 4, 54, 37, 16003)",
+        "datetime.datetime(2017, 6, 14, 4, 54, 37, 16003)",
+        "14",
+        "244"
+    ],
+    [
+        "65",
+        "'Murshidabad'",
+        "''",
+        "64",
+        "datetime.datetime(2017, 6, 14, 5, 1, 50, 552782)",
+        "datetime.datetime(2017, 6, 14, 5, 1, 50, 552782)",
+        "13",
+        "222"
+    ],
+    [
+        "66",
+        "''",
+        "''",
+        "65",
+        "datetime.datetime(2017, 6, 15, 6, 44, 43, 608695)",
+        "datetime.datetime(2017, 6, 15, 6, 44, 43, 608695)",
+        "14",
+        "244"
+    ],
+    [
+        "67",
+        "'Nadia'",
+        "''",
+        "66",
+        "datetime.datetime(2017, 6, 16, 5, 19, 49, 559391)",
+        "datetime.datetime(2017, 6, 16, 5, 19, 49, 559391)",
+        "14",
+        "244"
+    ],
+    [
+        "68",
+        "''",
+        "''",
+        "67",
+        "datetime.datetime(2017, 6, 16, 6, 51, 6, 692645)",
+        "datetime.datetime(2017, 6, 16, 6, 51, 6, 692645)",
+        "13",
+        "222"
+    ],
+    [
+        "69",
+        "'Murshidabad'",
+        "''",
+        "68",
+        "datetime.datetime(2017, 6, 16, 10, 12, 58, 320294)",
+        "datetime.datetime(2017, 6, 16, 10, 12, 58, 320294)",
+        "13",
+        "222"
+    ],
+    [
+        "70",
+        "'Paschim Medinipur'",
+        "''",
+        "69",
+        "datetime.datetime(2017, 6, 24, 5, 14, 26, 323532)",
+        "datetime.datetime(2017, 6, 24, 5, 14, 26, 323532)",
+        "11",
+        "170"
+    ]
+]

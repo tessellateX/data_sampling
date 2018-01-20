@@ -1,0 +1,104 @@
+[
+    [
+        "1",
+        "'PH'",
+        "datetime.datetime(2016, 3, 1, 12, 40, 17)",
+        "datetime.datetime(2016, 3, 1, 12, 40, 17)"
+    ],
+    [
+        "2",
+        "'EC'",
+        "datetime.datetime(2016, 3, 1, 12, 40, 26)",
+        "datetime.datetime(2016, 3, 1, 12, 40, 26)"
+    ],
+    [
+        "3",
+        "'OC'",
+        "datetime.datetime(2016, 3, 1, 12, 40, 37)",
+        "datetime.datetime(2016, 3, 1, 12, 40, 37)"
+    ],
+    [
+        "4",
+        "'N'",
+        "datetime.datetime(2016, 3, 1, 12, 40, 47)",
+        "datetime.datetime(2016, 3, 1, 12, 40, 47)"
+    ],
+    [
+        "5",
+        "'P'",
+        "datetime.datetime(2016, 3, 1, 12, 40, 54)",
+        "datetime.datetime(2016, 3, 1, 12, 40, 54)"
+    ],
+    [
+        "6",
+        "'K'",
+        "datetime.datetime(2016, 3, 1, 12, 41)",
+        "datetime.datetime(2016, 3, 1, 12, 41)"
+    ],
+    [
+        "7",
+        "'S'",
+        "datetime.datetime(2016, 3, 1, 12, 42, 43)",
+        "datetime.datetime(2016, 3, 1, 12, 42, 43)"
+    ],
+    [
+        "8",
+        "'Zn'",
+        "datetime.datetime(2016, 3, 1, 12, 42, 50)",
+        "datetime.datetime(2016, 3, 1, 12, 42, 50)"
+    ],
+    [
+        "9",
+        "'B'",
+        "datetime.datetime(2016, 3, 1, 12, 42, 58)",
+        "datetime.datetime(2016, 3, 1, 12, 42, 58)"
+    ],
+    [
+        "10",
+        "'Fe'",
+        "datetime.datetime(2016, 3, 1, 12, 43, 4)",
+        "datetime.datetime(2016, 3, 1, 12, 43, 4)"
+    ],
+    [
+        "11",
+        "'Mn'",
+        "datetime.datetime(2016, 3, 1, 12, 43, 14)",
+        "datetime.datetime(2016, 3, 1, 12, 43, 14)"
+    ],
+    [
+        "12",
+        "'Cu'",
+        "datetime.datetime(2016, 3, 1, 12, 43, 21)",
+        "datetime.datetime(2016, 3, 1, 12, 43, 21)"
+    ],
+    [
+        "13",
+        "'Organic Manure'",
+        "datetime.datetime(2016, 3, 1, 12, 43, 36)",
+        "datetime.datetime(2016, 3, 1, 12, 43, 36)"
+    ],
+    [
+        "14",
+        "'Biofertiliser'",
+        "datetime.datetime(2016, 3, 1, 12, 43, 59)",
+        "datetime.datetime(2016, 3, 1, 12, 43, 59)"
+    ],
+    [
+        "15",
+        "'Lime'",
+        "datetime.datetime(2016, 3, 1, 12, 44, 15)",
+        "datetime.datetime(2016, 3, 1, 12, 44, 15)"
+    ],
+    [
+        "16",
+        "'Gypsum'",
+        "datetime.datetime(2016, 3, 1, 12, 44, 24)",
+        "datetime.datetime(2016, 3, 1, 12, 44, 24)"
+    ],
+    [
+        "17",
+        "'Zn-RW'",
+        "datetime.datetime(2016, 4, 30, 11, 31, 5, 854998)",
+        "datetime.datetime(2016, 4, 30, 11, 31, 5, 854998)"
+    ]
+]

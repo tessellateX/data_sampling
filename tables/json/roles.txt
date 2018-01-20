@@ -1,0 +1,82 @@
+[
+    [
+        "1",
+        "'admin_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 12, 44)",
+        "datetime.datetime(2016, 3, 7, 15, 12, 44)"
+    ],
+    [
+        "2",
+        "'demo_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 13, 1)",
+        "datetime.datetime(2016, 3, 7, 15, 13, 1)"
+    ],
+    [
+        "3",
+        "'state_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 17, 4)",
+        "datetime.datetime(2016, 3, 7, 15, 17, 4)"
+    ],
+    [
+        "4",
+        "'district_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 17, 11)",
+        "datetime.datetime(2016, 3, 7, 15, 17, 11)"
+    ],
+    [
+        "6",
+        "'stl_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 17, 35)",
+        "datetime.datetime(2016, 3, 7, 15, 17, 35)"
+    ],
+    [
+        "9",
+        "'outsource_user'",
+        "None",
+        "None",
+        "None",
+        "None"
+    ],
+    [
+        "10",
+        "'gramdoot'",
+        "None",
+        "None",
+        "datetime.datetime(2017, 1, 27, 18, 3, 32, 448917)",
+        "datetime.datetime(2017, 1, 27, 18, 3, 32, 448917)"
+    ],
+    [
+        "5",
+        "'block_user'",
+        "None",
+        "None",
+        "datetime.datetime(2016, 3, 7, 15, 17, 20)",
+        "datetime.datetime(2017, 1, 27, 18, 3, 32, 465248)"
+    ],
+    [
+        "11",
+        "'outsource_stl_user'",
+        "None",
+        "None",
+        "datetime.datetime(2017, 3, 21, 12, 50, 25, 38916)",
+        "datetime.datetime(2017, 3, 21, 12, 50, 25, 38916)"
+    ],
+    [
+        "12",
+        "'upload_user'",
+        "None",
+        "None",
+        "datetime.datetime(2017, 5, 22, 4, 43, 6, 535204)",
+        "datetime.datetime(2017, 5, 22, 4, 43, 6, 535204)"
+    ]
+]

@@ -1,0 +1,1622 @@
+[
+    [
+        "60",
+        "1",
+        "'KharifCrop'",
+        "'Paddy'",
+        "datetime.datetime(2016, 3, 8, 12, 0, 31)",
+        "datetime.datetime(2016, 3, 8, 12, 0, 31)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a7\u09be\u09a8 '"
+    ],
+    [
+        "114",
+        "1",
+        "'RabiCrop'",
+        "'Paddy'",
+        "datetime.datetime(2016, 3, 11, 5, 11, 9)",
+        "datetime.datetime(2016, 3, 11, 5, 11, 9)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a7\u09be\u09a8 '"
+    ],
+    [
+        "61",
+        "2",
+        "'KharifCrop'",
+        "'Jute'",
+        "datetime.datetime(2016, 3, 10, 13, 23, 49)",
+        "datetime.datetime(2016, 3, 10, 13, 23, 49)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u099f '"
+    ],
+    [
+        "62",
+        "3",
+        "'KharifCrop'",
+        "'Maize '",
+        "datetime.datetime(2016, 3, 10, 13, 23, 55)",
+        "datetime.datetime(2016, 3, 10, 13, 23, 55)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ad\u09c1\u099f\u09cd\u099f\u09be '"
+    ],
+    [
+        "63",
+        "4",
+        "'KharifCrop'",
+        "'Sesamum'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 1)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 1)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09bf\u09b2 '"
+    ],
+    [
+        "64",
+        "5",
+        "'KharifCrop'",
+        "'Black Gram'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 6)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 6)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09b2\u09be\u0987 '"
+    ],
+    [
+        "65",
+        "6",
+        "'KharifCrop'",
+        "'Arhar '",
+        "datetime.datetime(2016, 3, 10, 13, 24, 13)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 13)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0985\u09dc\u09b9\u09b0'"
+    ],
+    [
+        "66",
+        "7",
+        "'KharifCrop'",
+        "'Cucumber'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 19)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 19)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b6\u09b8\u09be '"
+    ],
+    [
+        "67",
+        "8",
+        "'KharifCrop'",
+        "'Ridge Gourd'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 25)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 25)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099d\u09bf\u0999\u09cd\u0997\u09be'"
+    ],
+    [
+        "68",
+        "9",
+        "'KharifCrop'",
+        "'Pointed Gourd'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 32)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 32)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u099f\u09b2'"
+    ],
+    [
+        "208",
+        "43",
+        "'RabiCrop'",
+        "'Pointed Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 58)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 58)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u099f\u09b2'"
+    ],
+    [
+        "86",
+        "27",
+        "'KharifCrop'",
+        "'Ginger'",
+        "datetime.datetime(2016, 3, 10, 13, 27, 15)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 15)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09a6\u09be '"
+    ],
+    [
+        "69",
+        "10",
+        "'KharifCrop'",
+        "'Brinjal'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 39)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 39)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09c7\u0997\u09c1\u09a8 '"
+    ],
+    [
+        "70",
+        "11",
+        "'KharifCrop'",
+        "'Areca Nut'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 46)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 46)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09c1\u09aa\u09be\u09b0\u09c0'"
+    ],
+    [
+        "71",
+        "12",
+        "'KharifCrop'",
+        "'Banana'",
+        "datetime.datetime(2016, 3, 10, 13, 24, 54)",
+        "datetime.datetime(2016, 3, 10, 13, 24, 54)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09b2\u09be '"
+    ],
+    [
+        "72",
+        "13",
+        "'KharifCrop'",
+        "'Betel '",
+        "datetime.datetime(2016, 3, 10, 13, 25, 1)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 1)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u09a8'"
+    ],
+    [
+        "73",
+        "14",
+        "'KharifCrop'",
+        "'Bitter Gourd'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 8)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 8)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0989\u099a\u09cd\u099b\u09c7 '"
+    ],
+    [
+        "74",
+        "15",
+        "'KharifCrop'",
+        "'Cabbage'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 16)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 16)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09be\u0981\u09a7\u09be\u0995\u09aa\u09bf'"
+    ],
+    [
+        "75",
+        "16",
+        "'KharifCrop'",
+        "'Capsicum'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 24)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 24)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae'"
+    ],
+    [
+        "76",
+        "17",
+        "'KharifCrop'",
+        "'Carrot'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 32)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 32)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09be\u099c\u09b0'"
+    ],
+    [
+        "77",
+        "18",
+        "'KharifCrop'",
+        "'Cauliflower'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 47)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 47)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ab\u09c1\u09b2\u0995\u09aa\u09bf '"
+    ],
+    [
+        "78",
+        "19",
+        "'KharifCrop'",
+        "'Chilli'",
+        "datetime.datetime(2016, 3, 10, 13, 25, 55)",
+        "datetime.datetime(2016, 3, 10, 13, 25, 55)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b2\u0999\u09cd\u0995\u09be '"
+    ],
+    [
+        "79",
+        "20",
+        "'KharifCrop'",
+        "'Citrus'",
+        "datetime.datetime(2016, 3, 10, 13, 26, 2)",
+        "datetime.datetime(2016, 3, 10, 13, 26, 2)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b2\u09c7\u09ac\u09c1 '"
+    ],
+    [
+        "80",
+        "21",
+        "'KharifCrop'",
+        "'Coconut'",
+        "datetime.datetime(2016, 3, 10, 13, 26, 11)",
+        "datetime.datetime(2016, 3, 10, 13, 26, 11)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a8\u09be\u09b0\u0995\u09c7\u09b2 '"
+    ],
+    [
+        "81",
+        "22",
+        "'KharifCrop'",
+        "'Coriender'",
+        "datetime.datetime(2016, 3, 10, 13, 26, 23)",
+        "datetime.datetime(2016, 3, 10, 13, 26, 23)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a7\u09a8\u09c7 '"
+    ],
+    [
+        "82",
+        "23",
+        "'KharifCrop'",
+        "'Cotton'",
+        "datetime.datetime(2016, 3, 10, 13, 26, 31)",
+        "datetime.datetime(2016, 3, 10, 13, 26, 31)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09c1\u09b2\u09cb'"
+    ],
+    [
+        "83",
+        "24",
+        "'KharifCrop'",
+        "'Cow Pea'",
+        "datetime.datetime(2016, 3, 10, 13, 26, 40)",
+        "datetime.datetime(2016, 3, 10, 13, 26, 40)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09b0\u09ac\u099f\u09bf '"
+    ],
+    [
+        "84",
+        "25",
+        "'KharifCrop'",
+        "'Garber'",
+        "datetime.datetime(2016, 3, 10, 13, 27, 1)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 1)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099c\u09be\u09b0\u09ac\u09c7\u09b0\u09be '"
+    ],
+    [
+        "85",
+        "26",
+        "'KharifCrop'",
+        "'Garlic'",
+        "datetime.datetime(2016, 3, 10, 13, 27, 9)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 9)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b0\u09b8\u09c1\u09a8 '"
+    ],
+    [
+        "87",
+        "28",
+        "'KharifCrop'",
+        "'Gladiolus'",
+        "datetime.datetime(2016, 3, 10, 13, 27, 42)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 42)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09cd\u09b2\u09cd\u09af\u09be\u09a1\u09bf\u0993\u09b2\u09be\u09b8'"
+    ],
+    [
+        "88",
+        "29",
+        "'KharifCrop'",
+        "'Gram '",
+        "datetime.datetime(2016, 3, 10, 13, 27, 51)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 51)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099b\u09cb\u09b2\u09be '"
+    ],
+    [
+        "89",
+        "30",
+        "'KharifCrop'",
+        "'Green Gram'",
+        "datetime.datetime(2016, 3, 10, 13, 27, 56)",
+        "datetime.datetime(2016, 3, 10, 13, 27, 56)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u09c1\u0997 '"
+    ],
+    [
+        "90",
+        "31",
+        "'KharifCrop'",
+        "'Groundnut'",
+        "datetime.datetime(2016, 3, 10, 13, 28, 1)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 1)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099a\u09c0\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae'"
+    ],
+    [
+        "91",
+        "32",
+        "'KharifCrop'",
+        "'Guava '",
+        "datetime.datetime(2016, 3, 10, 13, 28, 6)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 6)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u09df\u09be\u09b0\u09be '"
+    ],
+    [
+        "92",
+        "33",
+        "'KharifCrop'",
+        "'Ladyfinger'",
+        "datetime.datetime(2016, 3, 10, 13, 28, 12)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 12)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ad\u09c7\u09a8\u09cd\u09a1\u09bf '"
+    ],
+    [
+        "93",
+        "34",
+        "'KharifCrop'",
+        "'Lentil'",
+        "datetime.datetime(2016, 3, 10, 13, 28, 16)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 16)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u09c1\u09b8\u09c1\u09b0 '"
+    ],
+    [
+        "94",
+        "35",
+        "'KharifCrop'",
+        "'Linseed'",
+        "datetime.datetime(2016, 3, 10, 13, 28, 22)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 22)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09bf\u09b8\u09bf '"
+    ],
+    [
+        "95",
+        "36",
+        "'KharifCrop'",
+        "'Mango '",
+        "datetime.datetime(2016, 3, 10, 13, 28, 28)",
+        "datetime.datetime(2016, 3, 10, 13, 28, 28)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09ae'"
+    ],
+    [
+        "96",
+        "37",
+        "'KharifCrop'",
+        "'Marigold'",
+        "datetime.datetime(2016, 3, 10, 13, 29, 20)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 20)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09be\u0981\u09a6\u09be'"
+    ],
+    [
+        "97",
+        "38",
+        "'KharifCrop'",
+        "'Mustard'",
+        "datetime.datetime(2016, 3, 10, 13, 29, 25)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 25)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "98",
+        "39",
+        "'KharifCrop'",
+        "'Onion '",
+        "datetime.datetime(2016, 3, 10, 13, 29, 30)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 30)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u0981\u09df\u09be\u099c'"
+    ],
+    [
+        "99",
+        "40",
+        "'KharifCrop'",
+        "'Palak '",
+        "datetime.datetime(2016, 3, 10, 13, 29, 35)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 35)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u09b2\u0982 '"
+    ],
+    [
+        "100",
+        "41",
+        "'KharifCrop'",
+        "'Papaya'",
+        "datetime.datetime(2016, 3, 10, 13, 29, 41)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 41)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u0981\u09aa\u09c7 '"
+    ],
+    [
+        "101",
+        "42",
+        "'KharifCrop'",
+        "'Pea '",
+        "datetime.datetime(2016, 3, 10, 13, 29, 46)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 46)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u099f\u09b0'"
+    ],
+    [
+        "102",
+        "43",
+        "'KharifCrop'",
+        "'Potato'",
+        "datetime.datetime(2016, 3, 10, 13, 29, 51)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 51)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09b2\u09c1 '"
+    ],
+    [
+        "104",
+        "45",
+        "'KharifCrop'",
+        "'Rapeseed'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 9)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 9)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "210",
+        "45",
+        "'RabiCrop'",
+        "'Rapeseed'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 10)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 10)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "214",
+        "49",
+        "'RabiCrop'",
+        "'Soybean'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 43)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 43)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b8\u09df\u09be\u09ac\u09bf\u09a8'"
+    ],
+    [
+        "166",
+        "53",
+        "'PreKharifCrop'",
+        "'Wheat '",
+        "datetime.datetime(2016, 3, 16, 10, 4, 8)",
+        "datetime.datetime(2016, 3, 16, 10, 4, 8)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09ae'"
+    ],
+    [
+        "113",
+        "1",
+        "'PreKharifCrop'",
+        "'Paddy'",
+        "datetime.datetime(2016, 3, 11, 5, 10, 35)",
+        "datetime.datetime(2016, 3, 11, 5, 10, 35)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a7\u09be\u09a8 '"
+    ],
+    [
+        "115",
+        "2",
+        "'PreKharifCrop'",
+        "'Jute'",
+        "datetime.datetime(2016, 3, 16, 9, 42, 15)",
+        "datetime.datetime(2016, 3, 16, 9, 42, 15)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u099f '"
+    ],
+    [
+        "118",
+        "5",
+        "'PreKharifCrop'",
+        "'Maize '",
+        "datetime.datetime(2016, 3, 16, 9, 52, 47)",
+        "datetime.datetime(2016, 3, 16, 9, 52, 47)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ad\u09c1\u099f\u09cd\u099f\u09be '"
+    ],
+    [
+        "117",
+        "4",
+        "'PreKharifCrop'",
+        "'Sesamum'",
+        "datetime.datetime(2016, 3, 16, 9, 43, 5)",
+        "datetime.datetime(2016, 3, 16, 9, 43, 5)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09bf\u09b2 '"
+    ],
+    [
+        "129",
+        "16",
+        "'PreKharifCrop'",
+        "'Black Gram'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 5)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 5)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09b2\u09be\u0987 '"
+    ],
+    [
+        "125",
+        "12",
+        "'PreKharifCrop'",
+        "'Arhar '",
+        "datetime.datetime(2016, 3, 16, 9, 53, 32)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 32)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0985\u09dc\u09b9\u09b0'"
+    ],
+    [
+        "123",
+        "10",
+        "'PreKharifCrop'",
+        "'Cucumber'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 19)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 19)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b6\u09b8\u09be '"
+    ],
+    [
+        "140",
+        "27",
+        "'PreKharifCrop'",
+        "'Garber'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 25)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 25)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099c\u09be\u09b0\u09ac\u09c7\u09b0\u09be '"
+    ],
+    [
+        "120",
+        "7",
+        "'PreKharifCrop'",
+        "'Brinjal'",
+        "datetime.datetime(2016, 3, 16, 9, 52, 58)",
+        "datetime.datetime(2016, 3, 16, 9, 52, 58)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09c7\u0997\u09c1\u09a8 '"
+    ],
+    [
+        "124",
+        "11",
+        "'PreKharifCrop'",
+        "'Areca Nut'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 25)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 25)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09c1\u09aa\u09be\u09b0\u09c0'"
+    ],
+    [
+        "126",
+        "13",
+        "'PreKharifCrop'",
+        "'Banana'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 38)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 38)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09b2\u09be '"
+    ],
+    [
+        "127",
+        "14",
+        "'PreKharifCrop'",
+        "'Betel '",
+        "datetime.datetime(2016, 3, 16, 9, 53, 53)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 53)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u09a8'"
+    ],
+    [
+        "128",
+        "15",
+        "'PreKharifCrop'",
+        "'Bitter Gourd'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 59)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 59)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0989\u099a\u09cd\u099b\u09c7 '"
+    ],
+    [
+        "130",
+        "17",
+        "'PreKharifCrop'",
+        "'Cabbage'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 13)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 13)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09be\u0981\u09a7\u09be\u0995\u09aa\u09bf'"
+    ],
+    [
+        "131",
+        "18",
+        "'PreKharifCrop'",
+        "'Capsicum'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 20)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 20)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae'"
+    ],
+    [
+        "132",
+        "19",
+        "'PreKharifCrop'",
+        "'Carrot'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 27)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 27)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09be\u099c\u09b0'"
+    ],
+    [
+        "133",
+        "20",
+        "'PreKharifCrop'",
+        "'Cauliflower'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 34)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 34)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ab\u09c1\u09b2\u0995\u09aa\u09bf '"
+    ],
+    [
+        "134",
+        "21",
+        "'PreKharifCrop'",
+        "'Chilli'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 41)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 41)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b2\u0999\u09cd\u0995\u09be '"
+    ],
+    [
+        "135",
+        "22",
+        "'PreKharifCrop'",
+        "'Citrus'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 50)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 50)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b2\u09c7\u09ac\u09c1 '"
+    ],
+    [
+        "184",
+        "19",
+        "'RabiCrop'",
+        "'Citrus'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 17)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 17)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b2\u09c7\u09ac\u09c1 '"
+    ],
+    [
+        "136",
+        "23",
+        "'PreKharifCrop'",
+        "'Coconut'",
+        "datetime.datetime(2016, 3, 16, 9, 54, 57)",
+        "datetime.datetime(2016, 3, 16, 9, 54, 57)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a8\u09be\u09b0\u0995\u09c7\u09b2 '"
+    ],
+    [
+        "137",
+        "24",
+        "'PreKharifCrop'",
+        "'Coriender'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 3)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 3)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a7\u09a8\u09c7 '"
+    ],
+    [
+        "138",
+        "25",
+        "'PreKharifCrop'",
+        "'Cotton'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 10)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 10)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09c1\u09b2\u09cb'"
+    ],
+    [
+        "139",
+        "26",
+        "'PreKharifCrop'",
+        "'Cow Pea'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 18)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 18)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ac\u09b0\u09ac\u099f\u09bf '"
+    ],
+    [
+        "190",
+        "25",
+        "'RabiCrop'",
+        "'Garber'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 1)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 1)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099c\u09be\u09b0\u09ac\u09c7\u09b0\u09be '"
+    ],
+    [
+        "141",
+        "28",
+        "'PreKharifCrop'",
+        "'Garlic'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 32)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 32)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b0\u09b8\u09c1\u09a8 '"
+    ],
+    [
+        "142",
+        "29",
+        "'PreKharifCrop'",
+        "'Ginger'",
+        "datetime.datetime(2016, 3, 16, 9, 55, 39)",
+        "datetime.datetime(2016, 3, 16, 9, 55, 39)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09a6\u09be '"
+    ],
+    [
+        "143",
+        "30",
+        "'PreKharifCrop'",
+        "'Gladiolus'",
+        "datetime.datetime(2016, 3, 16, 9, 57, 34)",
+        "datetime.datetime(2016, 3, 16, 9, 57, 34)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09cd\u09b2\u09cd\u09af\u09be\u09a1\u09bf\u0993\u09b2\u09be\u09b8'"
+    ],
+    [
+        "144",
+        "31",
+        "'PreKharifCrop'",
+        "'Gram '",
+        "datetime.datetime(2016, 3, 16, 9, 57, 50)",
+        "datetime.datetime(2016, 3, 16, 9, 57, 50)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099b\u09cb\u09b2\u09be '"
+    ],
+    [
+        "145",
+        "32",
+        "'PreKharifCrop'",
+        "'Green Gram'",
+        "datetime.datetime(2016, 3, 16, 9, 57, 59)",
+        "datetime.datetime(2016, 3, 16, 9, 57, 59)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u09c1\u0997 '"
+    ],
+    [
+        "116",
+        "3",
+        "'PreKharifCrop'",
+        "'Groundnut'",
+        "datetime.datetime(2016, 3, 16, 9, 42, 42)",
+        "datetime.datetime(2016, 3, 16, 9, 42, 42)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099a\u09c0\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae'"
+    ],
+    [
+        "196",
+        "31",
+        "'RabiCrop'",
+        "'Groundnut'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 43)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 43)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099a\u09c0\u09a8\u09be\u09ac\u09be\u09a6\u09be\u09ae'"
+    ],
+    [
+        "146",
+        "33",
+        "'PreKharifCrop'",
+        "'Guava '",
+        "datetime.datetime(2016, 3, 16, 9, 58, 6)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 6)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u09df\u09be\u09b0\u09be '"
+    ],
+    [
+        "121",
+        "8",
+        "'PreKharifCrop'",
+        "'Ladyfinger'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 4)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 4)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ad\u09c7\u09a8\u09cd\u09a1\u09bf '"
+    ],
+    [
+        "147",
+        "34",
+        "'PreKharifCrop'",
+        "'Lentil'",
+        "datetime.datetime(2016, 3, 16, 9, 58, 12)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 12)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u09c1\u09b8\u09c1\u09b0 '"
+    ],
+    [
+        "148",
+        "35",
+        "'PreKharifCrop'",
+        "'Linseed'",
+        "datetime.datetime(2016, 3, 16, 9, 58, 19)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 19)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09a4\u09bf\u09b8\u09bf '"
+    ],
+    [
+        "203",
+        "38",
+        "'RabiCrop'",
+        "'Mango '",
+        "datetime.datetime(2016, 3, 16, 10, 9, 27)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 27)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0986\u09ae'"
+    ],
+    [
+        "204",
+        "39",
+        "'RabiCrop'",
+        "'Marigold'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 33)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 33)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0997\u09be\u0981\u09a6\u09be'"
+    ],
+    [
+        "205",
+        "40",
+        "'RabiCrop'",
+        "'Onion '",
+        "datetime.datetime(2016, 3, 16, 10, 9, 39)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 39)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09c7\u0981\u09df\u09be\u099c'"
+    ],
+    [
+        "167",
+        "2",
+        "'RabiCrop'",
+        "'Potato'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 14)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 14)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0986\u09b2\u09c1 '"
+    ],
+    [
+        "122",
+        "9",
+        "'PreKharifCrop'",
+        "'Pumpkin'",
+        "datetime.datetime(2016, 3, 16, 9, 53, 10)",
+        "datetime.datetime(2016, 3, 16, 9, 53, 10)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09c1\u09ae\u09dc\u09be'"
+    ],
+    [
+        "221",
+        "55",
+        "'PreKharifCrop'",
+        "'Jute (Olitorius)'",
+        "datetime.datetime(2016, 3, 21, 6, 36, 1, 486929)",
+        "datetime.datetime(2016, 3, 21, 6, 36, 1, 486929)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u099f'"
+    ],
+    [
+        "220",
+        "55",
+        "'KharifCrop'",
+        "'Jute (Olitorius)'",
+        "datetime.datetime(2016, 3, 21, 6, 25, 46, 448629)",
+        "datetime.datetime(2016, 3, 21, 6, 25, 46, 448629)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u099f'"
+    ],
+    [
+        "119",
+        "6",
+        "'PreKharifCrop'",
+        "'Sugarcane'",
+        "datetime.datetime(2016, 3, 16, 9, 52, 51)",
+        "datetime.datetime(2016, 3, 16, 9, 52, 51)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u0981\u0996'"
+    ],
+    [
+        "215",
+        "50",
+        "'RabiCrop'",
+        "'Sugercane'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 49)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 49)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0986\u0981\u0996 '"
+    ],
+    [
+        "162",
+        "49",
+        "'PreKharifCrop'",
+        "'Sunflower'",
+        "datetime.datetime(2016, 3, 16, 10, 3, 24)",
+        "datetime.datetime(2016, 3, 16, 10, 3, 24)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09c2\u09b0\u09cd\u09af\u09ae\u09c1\u0996\u09c0 '"
+    ],
+    [
+        "108",
+        "49",
+        "'KharifCrop'",
+        "'Sunflower'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 31)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 31)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09c2\u09b0\u09cd\u09af\u09ae\u09c1\u0996\u09c0 '"
+    ],
+    [
+        "216",
+        "51",
+        "'RabiCrop'",
+        "'Sunflower'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 55)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 55)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b8\u09c2\u09b0\u09cd\u09af\u09ae\u09c1\u0996\u09c0 '"
+    ],
+    [
+        "163",
+        "50",
+        "'PreKharifCrop'",
+        "'Tomato'",
+        "datetime.datetime(2016, 3, 16, 10, 3, 51)",
+        "datetime.datetime(2016, 3, 16, 10, 3, 51)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099f\u09ae\u09c7\u099f\u09cb '"
+    ],
+    [
+        "109",
+        "50",
+        "'KharifCrop'",
+        "'Tomato'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 36)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 36)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099f\u09ae\u09c7\u099f\u09cb '"
+    ],
+    [
+        "172",
+        "7",
+        "'RabiCrop'",
+        "'Tomato'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 51)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 51)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099f\u09ae\u09c7\u099f\u09cb '"
+    ],
+    [
+        "164",
+        "51",
+        "'PreKharifCrop'",
+        "'Tuberose'",
+        "datetime.datetime(2016, 3, 16, 10, 3, 56)",
+        "datetime.datetime(2016, 3, 16, 10, 3, 56)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b0\u099c\u09a8\u09c0\u0997\u09a8\u09cd\u09a7\u09be '"
+    ],
+    [
+        "110",
+        "51",
+        "'KharifCrop'",
+        "'Tuberose'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 42)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 42)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b0\u099c\u09a8\u09c0\u0997\u09a8\u09cd\u09a7\u09be '"
+    ],
+    [
+        "217",
+        "52",
+        "'RabiCrop'",
+        "'Tuberose'",
+        "datetime.datetime(2016, 3, 16, 10, 11, 4)",
+        "datetime.datetime(2016, 3, 16, 10, 11, 4)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b0\u099c\u09a8\u09c0\u0997\u09a8\u09cd\u09a7\u09be '"
+    ],
+    [
+        "165",
+        "52",
+        "'PreKharifCrop'",
+        "'Turmaric'",
+        "datetime.datetime(2016, 3, 16, 10, 4, 2)",
+        "datetime.datetime(2016, 3, 16, 10, 4, 2)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b9\u09b2\u09c1\u09a6 '"
+    ],
+    [
+        "111",
+        "52",
+        "'KharifCrop'",
+        "'Turmaric'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 53)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 53)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b9\u09b2\u09c1\u09a6 '"
+    ],
+    [
+        "218",
+        "53",
+        "'RabiCrop'",
+        "'Turmaric'",
+        "datetime.datetime(2016, 3, 16, 10, 11, 10)",
+        "datetime.datetime(2016, 3, 16, 10, 11, 10)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b9\u09b2\u09c1\u09a6 '"
+    ],
+    [
+        "112",
+        "53",
+        "'KharifCrop'",
+        "'Wheat '",
+        "datetime.datetime(2016, 3, 10, 13, 30, 58)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 58)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09ae'"
+    ],
+    [
+        "168",
+        "3",
+        "'RabiCrop'",
+        "'Wheat'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 26)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 26)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0997\u09ae'"
+    ],
+    [
+        "198",
+        "33",
+        "'RabiCrop'",
+        "'Jute '",
+        "datetime.datetime(2016, 3, 16, 10, 8, 55)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 55)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09be\u099f '"
+    ],
+    [
+        "202",
+        "37",
+        "'RabiCrop'",
+        "'Maize '",
+        "datetime.datetime(2016, 3, 16, 10, 9, 20)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 20)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ad\u09c1\u099f\u09cd\u099f\u09be '"
+    ],
+    [
+        "212",
+        "47",
+        "'RabiCrop'",
+        "'Sesamum'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 32)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 32)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a4\u09bf\u09b2 '"
+    ],
+    [
+        "181",
+        "16",
+        "'RabiCrop'",
+        "'Black Gram'",
+        "datetime.datetime(2016, 3, 16, 10, 6, 56)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 56)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0995\u09b2\u09be\u0987 '"
+    ],
+    [
+        "177",
+        "12",
+        "'RabiCrop'",
+        "'Arhar '",
+        "datetime.datetime(2016, 3, 16, 10, 6, 24)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 24)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0985\u09dc\u09b9\u09b0'"
+    ],
+    [
+        "189",
+        "24",
+        "'RabiCrop'",
+        "'Cucumber'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 54)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 54)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b6\u09b8\u09be '"
+    ],
+    [
+        "159",
+        "46",
+        "'PreKharifCrop'",
+        "'Ridge Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 2, 54)",
+        "datetime.datetime(2016, 3, 16, 10, 2, 54)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099d\u09bf\u0999\u09cd\u0997\u09be'"
+    ],
+    [
+        "211",
+        "46",
+        "'RabiCrop'",
+        "'Ridge Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 21)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 21)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099d\u09bf\u0999\u09cd\u0997\u09be'"
+    ],
+    [
+        "156",
+        "43",
+        "'PreKharifCrop'",
+        "'Pointed Gourd'",
+        "datetime.datetime(2016, 3, 16, 9, 59, 38)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 38)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u099f\u09b2'"
+    ],
+    [
+        "176",
+        "11",
+        "'RabiCrop'",
+        "'Areca Nut'",
+        "datetime.datetime(2016, 3, 16, 10, 6, 17)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 17)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b8\u09c1\u09aa\u09be\u09b0\u09c0'"
+    ],
+    [
+        "173",
+        "8",
+        "'RabiCrop'",
+        "'Brinjal'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 56)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 56)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ac\u09c7\u0997\u09c1\u09a8 '"
+    ],
+    [
+        "178",
+        "13",
+        "'RabiCrop'",
+        "'Banana'",
+        "datetime.datetime(2016, 3, 16, 10, 6, 29)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 29)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0995\u09b2\u09be '"
+    ],
+    [
+        "179",
+        "14",
+        "'RabiCrop'",
+        "'Betel '",
+        "datetime.datetime(2016, 3, 16, 10, 6, 38)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 38)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09be\u09a8'"
+    ],
+    [
+        "180",
+        "15",
+        "'RabiCrop'",
+        "'Bitter Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 6, 44)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 44)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0989\u099a\u09cd\u099b\u09c7 '"
+    ],
+    [
+        "170",
+        "5",
+        "'RabiCrop'",
+        "'Cabbage'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 40)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 40)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ac\u09be\u0981\u09a7\u09be\u0995\u09aa\u09bf'"
+    ],
+    [
+        "182",
+        "17",
+        "'RabiCrop'",
+        "'Capsicum'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 3)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 3)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0995\u09cd\u09af\u09be\u09aa\u09b8\u09bf\u0995\u09be\u09ae'"
+    ],
+    [
+        "183",
+        "18",
+        "'RabiCrop'",
+        "'Carrot'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 10)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 10)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0997\u09be\u099c\u09b0'"
+    ],
+    [
+        "171",
+        "6",
+        "'RabiCrop'",
+        "'Cauliflower'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 46)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 46)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ab\u09c1\u09b2\u0995\u09aa\u09bf '"
+    ],
+    [
+        "175",
+        "10",
+        "'RabiCrop'",
+        "'Chilli'",
+        "datetime.datetime(2016, 3, 16, 10, 6, 10)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 10)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b2\u0999\u09cd\u0995\u09be '"
+    ],
+    [
+        "185",
+        "20",
+        "'RabiCrop'",
+        "'Coconut'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 23)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 23)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a8\u09be\u09b0\u0995\u09c7\u09b2 '"
+    ],
+    [
+        "186",
+        "21",
+        "'RabiCrop'",
+        "'Coriender'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 33)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 33)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a7\u09a8\u09c7 '"
+    ],
+    [
+        "187",
+        "22",
+        "'RabiCrop'",
+        "'Cotton'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 39)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 39)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a4\u09c1\u09b2\u09cb'"
+    ],
+    [
+        "188",
+        "23",
+        "'RabiCrop'",
+        "'Cow Pea'",
+        "datetime.datetime(2016, 3, 16, 10, 7, 48)",
+        "datetime.datetime(2016, 3, 16, 10, 7, 48)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ac\u09b0\u09ac\u099f\u09bf '"
+    ],
+    [
+        "191",
+        "26",
+        "'RabiCrop'",
+        "'Garlic'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 8)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 8)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b0\u09b8\u09c1\u09a8 '"
+    ],
+    [
+        "192",
+        "27",
+        "'RabiCrop'",
+        "'Ginger'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 16)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 16)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0986\u09a6\u09be '"
+    ],
+    [
+        "193",
+        "28",
+        "'RabiCrop'",
+        "'Gladiolus'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 25)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 25)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0997\u09cd\u09b2\u09cd\u09af\u09be\u09a1\u09bf\u0993\u09b2\u09be\u09b8'"
+    ],
+    [
+        "194",
+        "29",
+        "'RabiCrop'",
+        "'Gram '",
+        "datetime.datetime(2016, 3, 16, 10, 8, 32)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 32)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099b\u09cb\u09b2\u09be '"
+    ],
+    [
+        "195",
+        "30",
+        "'RabiCrop'",
+        "'Green Gram'",
+        "datetime.datetime(2016, 3, 16, 10, 8, 37)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 37)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ae\u09c1\u0997 '"
+    ],
+    [
+        "197",
+        "32",
+        "'RabiCrop'",
+        "'Guava '",
+        "datetime.datetime(2016, 3, 16, 10, 8, 49)",
+        "datetime.datetime(2016, 3, 16, 10, 8, 49)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09c7\u09df\u09be\u09b0\u09be '"
+    ],
+    [
+        "199",
+        "34",
+        "'RabiCrop'",
+        "'Ladyfinger'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 3)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 3)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ad\u09c7\u09a8\u09cd\u09a1\u09bf '"
+    ],
+    [
+        "200",
+        "35",
+        "'RabiCrop'",
+        "'Lentil'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 9)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 9)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ae\u09c1\u09b8\u09c1\u09b0 '"
+    ],
+    [
+        "201",
+        "36",
+        "'RabiCrop'",
+        "'Linseed'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 14)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 14)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09a4\u09bf\u09b8\u09bf '"
+    ],
+    [
+        "149",
+        "36",
+        "'PreKharifCrop'",
+        "'Mango '",
+        "datetime.datetime(2016, 3, 16, 9, 58, 26)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 26)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09ae'"
+    ],
+    [
+        "150",
+        "37",
+        "'PreKharifCrop'",
+        "'Marigold'",
+        "datetime.datetime(2016, 3, 16, 9, 58, 35)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 35)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0997\u09be\u0981\u09a6\u09be'"
+    ],
+    [
+        "151",
+        "38",
+        "'PreKharifCrop'",
+        "'Mustard'",
+        "datetime.datetime(2016, 3, 16, 9, 58, 41)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 41)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "169",
+        "4",
+        "'RabiCrop'",
+        "'Mustard'",
+        "datetime.datetime(2016, 3, 16, 10, 5, 31)",
+        "datetime.datetime(2016, 3, 16, 10, 5, 31)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "152",
+        "39",
+        "'PreKharifCrop'",
+        "'Onion '",
+        "datetime.datetime(2016, 3, 16, 9, 58, 52)",
+        "datetime.datetime(2016, 3, 16, 9, 58, 52)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u0981\u09df\u09be\u099c'"
+    ],
+    [
+        "153",
+        "40",
+        "'PreKharifCrop'",
+        "'Palak '",
+        "datetime.datetime(2016, 3, 16, 9, 59, 1)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 1)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09be\u09b2\u0982 '"
+    ],
+    [
+        "174",
+        "9",
+        "'RabiCrop'",
+        "'Palak '",
+        "datetime.datetime(2016, 3, 16, 10, 6, 2)",
+        "datetime.datetime(2016, 3, 16, 10, 6, 2)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09be\u09b2\u0982 '"
+    ],
+    [
+        "154",
+        "41",
+        "'PreKharifCrop'",
+        "'Papaya'",
+        "datetime.datetime(2016, 3, 16, 9, 59, 7)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 7)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09aa\u09c7\u0981\u09aa\u09c7 '"
+    ],
+    [
+        "206",
+        "41",
+        "'RabiCrop'",
+        "'Papaya'",
+        "datetime.datetime(2016, 3, 16, 10, 9, 46)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 46)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09c7\u0981\u09aa\u09c7 '"
+    ],
+    [
+        "155",
+        "42",
+        "'PreKharifCrop'",
+        "'Pea '",
+        "datetime.datetime(2016, 3, 16, 9, 59, 26)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 26)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09ae\u099f\u09b0'"
+    ],
+    [
+        "207",
+        "42",
+        "'RabiCrop'",
+        "'Pea '",
+        "datetime.datetime(2016, 3, 16, 10, 9, 51)",
+        "datetime.datetime(2016, 3, 16, 10, 9, 51)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09ae\u099f\u09b0'"
+    ],
+    [
+        "157",
+        "44",
+        "'PreKharifCrop'",
+        "'Potato'",
+        "datetime.datetime(2016, 3, 16, 9, 59, 45)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 45)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u09b2\u09c1 '"
+    ],
+    [
+        "103",
+        "44",
+        "'KharifCrop'",
+        "'Pumpkin'",
+        "datetime.datetime(2016, 3, 10, 13, 29, 56)",
+        "datetime.datetime(2016, 3, 10, 13, 29, 56)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0995\u09c1\u09ae\u09dc\u09be'"
+    ],
+    [
+        "209",
+        "44",
+        "'RabiCrop'",
+        "'Pumpkin'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 4)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 4)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u0995\u09c1\u09ae\u09dc\u09be'"
+    ],
+    [
+        "158",
+        "45",
+        "'PreKharifCrop'",
+        "'Rapeseed'",
+        "datetime.datetime(2016, 3, 16, 9, 59, 53)",
+        "datetime.datetime(2016, 3, 16, 9, 59, 53)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09b0\u09b7\u09c7 '"
+    ],
+    [
+        "160",
+        "47",
+        "'PreKharifCrop'",
+        "'Snake Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 3, 2)",
+        "datetime.datetime(2016, 3, 16, 10, 3, 2)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u099a\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09c7 '"
+    ],
+    [
+        "105",
+        "46",
+        "'KharifCrop'",
+        "'Snake Gourd'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 15)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 15)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u099a\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09c7 '"
+    ],
+    [
+        "213",
+        "48",
+        "'RabiCrop'",
+        "'Snake Gourd'",
+        "datetime.datetime(2016, 3, 16, 10, 10, 37)",
+        "datetime.datetime(2016, 3, 16, 10, 10, 37)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u099a\u09bf\u099a\u09bf\u0999\u09cd\u0997\u09c7 '"
+    ],
+    [
+        "161",
+        "48",
+        "'PreKharifCrop'",
+        "'Soybean'",
+        "datetime.datetime(2016, 3, 16, 10, 3, 11)",
+        "datetime.datetime(2016, 3, 16, 10, 3, 11)",
+        "'\u09aa\u09cd\u09b0\u09be\u0995-\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09df\u09be\u09ac\u09bf\u09a8'"
+    ],
+    [
+        "106",
+        "47",
+        "'KharifCrop'",
+        "'Soybean'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 20)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 20)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u09b8\u09df\u09be\u09ac\u09bf\u09a8'"
+    ],
+    [
+        "222",
+        "55",
+        "'RabiCrop'",
+        "'Jute (Olitorius)'",
+        "datetime.datetime(2016, 3, 21, 6, 36, 22, 32864)",
+        "datetime.datetime(2016, 3, 21, 6, 36, 22, 32864)",
+        "'\u09b0\u09ac\u09bf'",
+        "'\u09aa\u09be\u099f'"
+    ],
+    [
+        "107",
+        "48",
+        "'KharifCrop'",
+        "'Sugarcane'",
+        "datetime.datetime(2016, 3, 10, 13, 30, 26)",
+        "datetime.datetime(2016, 3, 10, 13, 30, 26)",
+        "'\u0996\u09b0\u09bf\u09ab'",
+        "'\u0986\u0981\u0996'"
+    ]
+]
