@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+id,crop_reference_id,nitrogen,phosphorus,potassium,sulphur,zinc,boron,iron,manganese,copper,organic_manure,biofertiliser,lime,gypsum,created_at,updated_at,result_id,mixed_fertilizer_urea,mixed_fertilizer_ssp,mixed_fertilizer_mop,mixed_fertilizer_required
 3029,115,43,63,17,4 kg/acre at land preparation,10 kg/ acre at land preparation,,Ferrous sulfate @ 6  kg/acre ,,Foliar spray of 0.025 % solution of copper sulphate (pentahydrate) ,FYM 2 Ton/Acre,Azotobactor & PSB @ 3Kg/acre each,400 Kg/Acre,,2016-04-15 07:33:58.724398,2016-05-02 06:54:58.539188,1001,35,0,0,39
 3028,168,104,175,47,8 kg/ acre at land preparation,10 kg/ acre at land preparation,,Ferrous sulfate @ 6  kg/acre ,,Foliar spray of 0.025 % solution of copper sulphate (pentahydrate) ,FYM 2 Ton/Acre,Azotobactor & PSB @ 3Kg/acre each,400 Kg/Acre,,2016-04-15 07:33:58.708123,2016-05-02 06:54:58.548816,1001,81,0,0,108
 14214,173,130,250,67,,,,,,,FYM 2 Ton/Acre,Azophos 6 Kg/Acre,400 Kg/Acre,,2016-05-06 06:58:56.022412,2016-05-06 06:58:56.022412,5509,97,0,0,154

@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7
+id,addressline,pin,laboratory_id,created_at,updated_at,district_id,block_id
 1,"Darjeeling, Kalimpong",00000,1.0,2016-02-18 10:16:33.000000,2016-02-18 10:16:33.000000,4,
 2,"Darjeeling, Kalimpong",0000,2.0,2016-02-18 10:17:11.000000,2016-02-18 10:17:11.000000,4,
 3,"Darjeeling, Coochbeher",00000,3.0,1970-01-01 00:00:00.000000,1970-01-01 00:00:00.000000,4,

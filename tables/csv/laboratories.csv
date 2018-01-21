@@ -1,4 +1,4 @@
-0,1,2,3,4,5
+id,name,created_at,updated_at,tests_count,tested_sample_count
 29,"Hooghly 2 - KVK Chinsurah, Hooghly",2016-02-25 05:24:54.000000,2016-02-25 05:24:54.000000,10,0
 8,Coochbehar 2 - KVK Coochbehar,2016-02-25 05:09:32.000000,2016-02-25 05:09:32.000000,1,1
 35,"North 24 Parganas 2 - KVK Ashokenagar, North 24 Parganas",2016-02-25 05:27:23.000000,2016-02-25 05:27:23.000000,20,0
