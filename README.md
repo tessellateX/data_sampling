@@ -4,48 +4,49 @@
 
 |Name|Desc|Clean|
 |:----|:----|:-----:|
-| **acidity_alalinity_logics** |Null|<p style="color:green">**CLEAN**</p>|
-| **addresses**|Null|<p style="color:blue">**?**</p>|
-| **blocks**|Null|<p style="color:blue">**?**</p>|
-| **blocks_bk** |Drop|<p style="color:black">**X**</p>|
-| **conversion_rates**|Null|<p style="color:blue">**?**</p>|
-| **crop_references**|Null|<p style="color:blue">**?**</p>|
-| **districts** | District names and district codes with soil sample count|<p style="color:blue">**?**</p>|
-| **farmer_soil_samples**|Null|<p style="color:blue">**?**</p>|
-| **farmer_soil_samples_bk**|Null|<p style="color:blue">**?**</p>|
-| **farmers**|Null|<p style="color:blue">**?**</p>|
-| **fertlizer_combination_firsts**|Null|<p style="color:blue">**?**</p>|
-| **fertlizer_combination_firsts_bk**|Null|<p style="color:blue">**?**</p>|
-| **irrigation_types**|Null|<p style="color:blue">**?**</p>|
-| **kharif_crops**|Null|<p style="color:blue">**?**</p>|
-| **laboratories** - List of laboratories in west-bengal|Null|<p style="color:blue">**?**</p>|
-| **land_types**|Null|<p style="color:blue">**?**</p>|
-| **material_limit_logics**|Null|<p style="color:blue">**?**</p>|
-| **micro_nutrient_recommend_limits**|Null|<p style="color:blue">**?**</p>|
-| **mixed_fertilizer_rates**|Null|<p style="color:blue">**?**</p>|
-| **mouzas**|Null|<p style="color:blue">**?**</p>|
-| **mouzas_bk**|Null|<p style="color:blue">**?**</p>|
-| **new_mouzas**|Null|<p style="color:blue">**?**</p>|
-| **npk_data_logics**|Null|<p style="color:blue">**?**</p>|
-| **offline_farmers**|Null|<p style="color:blue">**?**</p>|
-| **offline_results**|Null|<p style="color:blue">**?**</p>|
-| **offline_samples**|Null|<p style="color:blue">**?**</p>|
-| **plot_slopes**|Null|<p style="color:blue">**?**</p>|
-| **pre_kharif_crops**|Null|<p style="color:blue">**?**</p>|
-| **rabi_crops**|Null|<p style="color:blue">**?**</p>|
-| **ratings**|Null|<p style="color:blue">**?**</p>|
-| **results**|Null|<p style="color:blue">**?**</p>|
-| **results_bk**|Null|<p style="color:blue">**?**</p>|
-| **roles**|Null|<p style="color:blue">**?**</p>|
-| **schema_migrations**|Null|<p style="color:blue">**?**</p>|
-| **sessions**|Null|<p style="color:blue">**?**</p>|
-| **soil_health_cards**|Null|<p style="color:blue">**?**</p>|
-| **soil_health_cards_bk**|Null|<p style="color:blue">**?**</p>|
-| **soil_materials** |Chemical constitutions of soil|<p style="color:green">**CLEAN**</p>|
-| **soil_samples**|Null|<p style="color:blue">**?**</p>|
-| **soil_types**|Null|<p style="color:blue">**?**</p>|
-| **targets**|Null|<p style="color:blue">**?**</p>|
-| **tests**|Null|<p style="color:blue">**?**</p>|
-| **tests_bk**|Null|<p style="color:blue">**?**</p>|
-| **users**|Null|<p style="color:blue">**?**</p>|
-| **users_roles**|Null|<p style="color:blue">**?**</p>|
+
+| **acidity_alalinity_logics** |Null|**CLEAN**|
+| **addresses**|Null|**?**|
+| **blocks**|Null|**?**|
+| **blocks_bk** |Drop|**X**|
+| **conversion_rates**|Null|**?**|
+| **crop_references**|Null|**?**|
+| **districts** | District names and district codes with soil sample count|**?**|
+| **farmer_soil_samples**|Null|**?**|
+| **farmer_soil_samples_bk**|Null|**?**|
+| **farmers**|Null|**?**|
+| **fertlizer_combination_firsts**|Null|**?**|
+| **fertlizer_combination_firsts_bk**|Null|**?**|
+| **irrigation_types**|Null|**?**|
+| **kharif_crops**|Null|**?**|
+| **laboratories** | List of laboratories in west-bengal|**?**|
+| **land_types**|Null|**?**|
+| **material_limit_logics**|Null|**?**|
+| **micro_nutrient_recommend_limits**|Null|**?**|
+| **mixed_fertilizer_rates**|Null|**?**|
+| **mouzas**|Null|**?**|
+| **mouzas_bk**|Null|**?**|
+| **new_mouzas**|Null|**?**|
+| **npk_data_logics**|Null|**?**|
+| **offline_farmers**|Null|**?**|
+| **offline_results**|Null|**?**|
+| **offline_samples**|Null|**?**|
+| **plot_slopes**|Null|**?**|
+| **pre_kharif_crops**|Null|**?**|
+| **rabi_crops**|Null|**?**|
+| **ratings**|Null|**?**|
+| **results**|Null|**?**|
+| **results_bk**|Null|**?**|
+| **roles**|Null|**?**|
+| **schema_migrations**|Null|**?**|
+| **sessions**|Null|**?**|
+| **soil_health_cards**|Null|**?**|
+| **soil_health_cards_bk**|Null|**?**|
+| **soil_materials** |Chemical constitutions of soil|**CLEAN**|
+| **soil_samples**|Null|**?**|
+| **soil_types**|Null|**?**|
+| **targets**|Null|**?**|
+| **tests**|Null|**?**|
+| **tests_bk**|Null|**?**|
+| **users**|Null|**?**|
+| **users_roles**|Null|**?**|

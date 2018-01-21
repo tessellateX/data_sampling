@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13
+id,sample_no,farmer_name,mobile_no,dag_no,farmer_address,pincode,aadhar_no,farm_size,farm_size_unit,status,sample_id,created_at,updated_at
 3556,10123,ANNA MOHAN ROY,,1266,,,,,,True,07004045146,2016-06-22 08:24:31.497256,2016-06-22 08:24:31.508472
 3557,10124,HARIMOHAN BHAGAT,7797935474,160,,,,,,True,07004045147,2016-06-22 08:24:31.738775,2016-06-22 08:24:31.749920
 3558,10124,AJIT ROY,,162,,,,,,True,07004045147,2016-06-22 08:24:31.753450,2016-06-22 08:24:31.764537
