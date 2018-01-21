@@ -4,7 +4,6 @@
 
 |Name|Desc|Clean|
 |:----|:----|:-----:|
-
 | **acidity_alalinity_logics** |Null|**CLEAN**|
 | **addresses**|Null|**?**|
 | **blocks**|Null|**?**|
