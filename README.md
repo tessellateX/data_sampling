@@ -4,7 +4,7 @@
 
 |Name|Desc|Clean|
 |:----|:----|:-----:|
-| **acidity_alalinity_logics** |Null|**CLEAN**|
+| **acidity_alalinity_logics** |Table containing amount of lime and gypsum needed to neutralize acidity of various soil types corresponding to different pH levels|**CLEAN**|
 | **addresses**|Null|**?**|
 | **blocks**|Null|**?**|
 | **blocks_bk** |Drop|**X**|
@@ -47,5 +47,5 @@
 | **targets**|Null|**?**|
 | **tests**|Null|**?**|
 | **tests_bk**|Null|**?**|
-| **users**|Table containing user details like email,p assword, etc.|**?**|
+| **users**|Table containing user details like email, password, etc.|**?**|
 | **users_roles**|Roles of various users corresponding to role id|**?**|
