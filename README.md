@@ -47,5 +47,5 @@
 | **targets**|Null|**?**|
 | **tests**|Null|**?**|
 | **tests_bk**|Null|**?**|
-| **users**|Null|**?**|
-| **users_roles**|Null|**?**|
+| **users**|Table containing user details like email,p assword, etc.|**?**|
+| **users_roles**|Roles of various users corresponding to role id|**?**|
