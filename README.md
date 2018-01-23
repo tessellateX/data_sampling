@@ -9,17 +9,17 @@
 | **blocks**|Null|**?**|
 | **blocks_bk** |Drop|**X**|
 | **conversion_rates**|Null|**?**|
-| **crop_references**|Null|**?**|
+| **crop_references**|Table contaning the types of each crop i.e. kharif, rabi, etc.|**?**|
 | **districts** | District names and district codes with soil sample count|**?**|
 | **farmer_soil_samples**|Null|**?**|
 | **farmer_soil_samples_bk**|Null|**?**|
 | **farmers**|Null|**?**|
 | **fertlizer_combination_firsts**|Null|**?**|
 | **fertlizer_combination_firsts_bk**|Null|**?**|
-| **irrigation_types**|Null|**?**|
+| **irrigation_types**|Types of irrigation on a particular land type|**?**|
 | **kharif_crops**|Null|**?**|
 | **laboratories** | List of laboratories in west-bengal|**?**|
-| **land_types**|Null|**?**|
+| **land_types**|Id corresponding to land types|**?**|
 | **material_limit_logics**|Null|**?**|
 | **micro_nutrient_recommend_limits**|Null|**?**|
 | **mixed_fertilizer_rates**|Null|**?**|
