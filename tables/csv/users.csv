@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+id,email,encrypted_password,reset_password_token,reset_password_sent_at,remember_created_at,sign_in_count,current_sign_in_at,last_sign_in_at,current_sign_in_ip,last_sign_in_ip,created_at,updated_at,auth_token,district_id,block_id,laboratory_id,mobile_no
 4551,ab.bwn@soil.in,$2a$10$SYXA84OW9oF/GHrdu8ouAObp1tv32tDI5xc9dVo.68wR/8KnPLXmu,,,,38,2017-07-10 09:08:44.456317,2017-07-06 04:27:20.170123,115.113.196.22,115.113.196.22,2017-02-24 07:07:52.146026,2017-07-10 09:08:44.459474,-Zzytprzusv7W4hBzroh,2.0,,,
 2730,deo2stlb@soil.in,$2a$10$ZtJ1UtNSGVFjpFmSGyxeAOBedZKO4yoviZeaxHYSlAr9Yaw4qj90.,,,,249,2017-06-18 05:53:54.592722,2017-06-01 08:07:29.535169,42.110.139.130,45.248.177.144,2016-05-04 13:23:01.483022,2017-06-18 05:53:54.595177,2730,13.0,,,
 303,ada.khejuri@soil.in,$2a$10$tOaPHsHC7.1pnuHd8CtRIu0BPwYxXrfbugKJNRcTl.5V/bL8A/hcW,,,,6827,2017-07-17 06:45:21.739188,2017-07-07 04:56:42.509439,117.205.173.230,117.205.173.1,2016-03-15 10:06:51.126466,2017-07-17 06:45:21.749089,EBPthTCFrzAHxcx6AEDm,12.0,205.0,,

@@ -42,7 +42,7 @@
 | **soil_health_cards**|Null|**?**|
 | **soil_health_cards_bk**|Null|**?**|
 | **soil_materials** |Chemical constitutions of soil|**CLEAN**|
-| **soil_samples**|Null|**?**|
+| **soil_samples**| The type of the soli corresponding to the soil name |**?**|
 | **soil_types**|Null|**?**|
 | **targets**|Null|**?**|
 | **tests**|Null|**?**|
