@@ -36,13 +36,13 @@
 | **ratings**|Null|**?**|
 | **results**|Null|**?**|
 | **results_bk**|Null|**?**|
-| **roles**|Null|**?**|
+| **roles**|Names of roles corresponding to role id of users|**?**|
 | **schema_migrations**|Null|**?**|
 | **sessions**|Null|**?**|
 | **soil_health_cards**|Null|**?**|
 | **soil_health_cards_bk**|Null|**?**|
 | **soil_materials** |Chemical constitutions of soil|**CLEAN**|
-| **soil_samples**| The type of the soli corresponding to the soil name |**?**|
+| **soil_samples**| The type of the soil corresponding to the soil name |**?**|
 | **soil_types**|Null|**?**|
 | **targets**|Null|**?**|
 | **tests**|Null|**?**|
