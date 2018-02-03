@@ -4,7 +4,7 @@ import googlemaps
 import json
 
 def read_File():
-    df=pd.read_csv("split_data/split_mouzas0.csv") # change the file name to get output for various splitsssss
+    df=pd.read_csv("split_data/split_mouzas0.csv") # change the file name to get output for various splits
     df=df['name']
     return df
 
@@ -46,8 +46,8 @@ print ("\n \n")
 print (bad)
 print (len(bad))
 
-positions.to_csv('csv/positions0.csv',sep=',',encoding='utf-8')
-bad.to_csv('notFoundMouza/notFound0.csv',sep=',',encoding='utf-8')
-with open('json/positions0.txt', 'w') as outfile:  
+positions.to_csv('csv/positions0.csv',sep=',',encoding='utf-8')  # change the file name to get output for various splits
+bad.to_csv('notFoundMouza/notFound0.csv',sep=',',encoding='utf-8') # change the file name to get output for various splits
+with open('json/positions0.txt', 'w') as outfile:  # change the file name to get output for various splits
     json.dump(geo_j, outfile)
 
